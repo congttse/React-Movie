@@ -1,0 +1,16 @@
+.containerAdd{
+    position: relative;
+}
+.createButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.textCreate{
+    background-color: #54B435;
+    font-size: 25px;
+    border-radius: 10px;
+    border: #333 1px solid;
+    margin-bottom: 15px;
+}
+

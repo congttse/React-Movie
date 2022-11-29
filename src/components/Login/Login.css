@@ -1,0 +1,37 @@
+.containerLogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    min-height: 500px;
+}
+.cardLogin{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    overflow: hidden;
+}
+.headingLogin{
+    text-align: center;
+    font-size: 25px;
+}
+.textLogin{
+    text-align: center;
+    font-size: 35px;
+}
+.inputLogin{
+    width: 300px;
+    margin-top: 40px;
+}
+.userNameLogin{
+    margin-bottom: 20px !important;
+}
+.forgotPassword{
+    font-size: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.googleButton{
+    margin-top: 30px;
+}

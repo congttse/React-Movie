@@ -1,0 +1,35 @@
+.aboutSection{
+    background-color: rgb(203, 201, 201);
+}
+.tab-2{
+    background: url('../../../public//images/achievement.jpg');
+    background-size: cover;
+}
+.design{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #7D6E83;
+}
+.a-description{
+    padding-left: 100px;
+    font-size: 33px;
+}
+.a-col-second{
+    width: 100%;
+}
+.a-image{
+    margin-left: 150px;
+    width: 60%;
+    height: auto;
+}
+.a-image:hover{
+    box-shadow: 5px 5px 5px 5px #4549FF;
+    transition: 0.5s ease-in-out;
+}
+.photo-by{
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+}
+.about-col1-tab2{
+    padding-left: 50px !important;
+}

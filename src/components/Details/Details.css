@@ -1,0 +1,79 @@
+.detailSection{
+    text-align: center;
+}
+.detail-image{
+    width: 700px;
+    height: 500px;
+
+    border: 2px solid #fff;
+    border-radius: 5%;
+}
+.detail-image:hover{
+    box-shadow: 10px 10px 5px #645CAA;
+    transition: 0.5s ease-in-out;
+}
+
+.detail-title{
+    color: #665A48;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+.text{
+    text-align: left !important;
+    padding-left: 20px;
+}
+
+.detail-year{
+    color: #665A48;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+    padding-bottom: 30px;
+}
+.detail-nation{
+    color: #665A48;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+    padding-bottom: 30px;
+}
+.detail-type{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #665A48;
+
+    padding-bottom: 30px;
+}
+.detail-duration{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #665A48;
+
+    padding-bottom: 30px;
+}
+.detail-director{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #665A48;
+}
+.detail-trailer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.text-1{
+    text-align: left;
+}
+.description{
+    font-size: 30px;
+}
+.detail-info{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    color: #665A48;
+}
+
+
+
+
+

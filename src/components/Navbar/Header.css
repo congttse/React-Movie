@@ -1,0 +1,37 @@
+.nav-wrapper{
+    background-color: #404258;
+    padding-left: 30px;
+    position: relative;
+    overflow: hidden;
+}
+.infoAccount{
+    position: absolute;
+    left: 70%;
+    overflow: hidden;
+}
+.imageAccount{
+    position: absolute;
+    left: 70%;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 55px;
+    height: auto;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+.usernameAccount{
+    position: absolute;
+    left: 74%;
+    overflow: hidden;
+    font-size: 15px;
+}
+.logout{
+    position: absolute;
+    left: 90%;
+    font-size: 20px;
+}
+.login{
+    position: absolute;
+    left: 90%;
+    font-size: 20px;
+}

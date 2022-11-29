@@ -1,0 +1,121 @@
+{
+    "Films": [
+        {
+            "id": 1,
+            "image": "https://static2.vieon.vn/vieplay-image/carousel_web_v4/2022/01/04/frcekaro_1920x1080-nguoisat_1920_1080.jpg",
+            "title": "Iron Man",
+            "type": "Action Movie",
+            "duration": "122 minutes",
+            "year": "2008",
+            "nation": "USA",
+            "director": "Jon Favreau",
+            "info": "Tony Stark - a genius billionaire who created Iron Man armor when he was kidnapped to escape from evil. But after being released, Tony used this armor to protect world peace. However, in this episode, Iron Man had to face Obadiah Stane, a man who had the intention to take over the company Stark Industries and create a similar armor called Iron Monger.",
+            "trailer": "https: //www.youtube.com/embed/8ugaeA-nMTc",
+            "hot": true
+        },
+        {
+            "id": 2,
+            "image": "http://4.bp.blogspot.com/-RelI8iZjhoY/VYN2wLnLRUI/AAAAAAAADXo/HbPlJKLRa9k/s1600/serial-nguoi-khong-lo-xanh-hulk-full-vietsub.jpg",
+            "title": "The Incredible Hulk",
+            "type": "Fantasy Movie",
+            "duration": "120 minutes",
+            "year": "2008",
+            "nation": "USA",
+            "director": "Ang Lee",
+            "info": "Scientist Bruce Banner participates in the super-soldier program initiated by General Thaddeus 'Thunderbolt' Ross. But the program ran the risk of causing Bruce Banner to become radioactive and turn into a green giant when angry. He has to control himself and is also the target of the government, the evil forces.",
+            "trailer": "https: //www.youtube.com/embed/xbqNb2PFKKA",
+            "hot": false
+        },
+        {
+            "id": 3,
+            "image": "https://m.media-amazon.com/images/I/71VZVXPhmKL.jpg",
+            "title": "Iron Man 2",
+            "type": "Action Movie",
+            "duration": "124 minutes",
+            "year": "2010",
+            "nation": "USA",
+            "director": "Jon Favreau",
+            "info": "In season 2, Tony must contend with the US government's desire to steal armor technology from him, and he also faces revenge from Ivan Vanko. Besides, Black Window was also installed by Nick Fury to monitor him. At the end of the film, Tony and his best friend James Rhodey defeat Vanko.",
+            "trailer": "https: //www.youtube.com/embed/qsRZghNciIo",
+            "hot": true
+        },
+        {
+            "id": 4,
+            "image": "https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+            "title": "Thor",
+            "type": "Fantasy Movie",
+            "duration": "115 minutes",
+            "year": "2011",
+            "nation": "USA",
+            "director": "Kenneth Branagh",
+            "info": "Thor is a god from the holy land of Asgard, who was the son of the supreme god Odin Borson and the mother Gaea, but because of his pride, was banished to Earth and stripped of his powers. Thor meets and falls in love with scientist Jane Foster. Meanwhile in Asgard, Loki - Thor's brother learned that he was not Odin's biological son, so he sent the Destroyer to Earth to harm his brother. Thor regained his strength thanks to his bravery after which he defeated Loki.",
+            "trailer": "https: //www.youtube.com/embed/JOddp-nlNvQ",
+            "hot": true
+        },
+        {
+            "id": 5,
+            "image": "https://upload.wikimedia.org/wikipedia/vi/3/37/Captain_America_The_First_Avenger_poster.jpg",
+            "title": "Captain America: The First Avenger",
+            "type": "Fantasy Movie",
+            "duration": "124 minutes",
+            "year": "2011",
+            "nation": "USA",
+            "director": "Joe Johnston",
+            "info": "To fight Nazism, the US military created the Super Soldier project. Steve Roger - a small, skinny but extremely brave soldier was chosen and became a powerful Super Soldier (Captain America). In the final battle, Steve died but was saved in the modern future.",
+            "trailer": "https: //www.youtube.com/embed/JerVrbLldXw",
+            "hot": false
+        },
+        {
+            "id": 6,
+            "image": "https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "title": "The Avengers",
+            "type": "Fantasy Movie",
+            "duration": "143 minutes",
+            "year": "2012",
+            "nation": "USA",
+            "director": "Joss Whedon",
+            "info": "When Loki - Thor's adopted brother infiltrated the base of S.H.I.E.L.D (International Peacekeeping Organization), he obtained the Cosmic Cube and extracted unlimited energy from it. Later, Loki plotted to lead an army to the annexed Earth to turn humans into slaves.",
+            "trailer": "https: //www.youtube.com/embed/eOrNdBpGMv8",
+            "hot": true
+        },
+        {
+            "id": 7,
+            "image": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg",
+            "title": "Iron Man 3",
+            "type": "Action Movie",
+            "duration": "130 minutes",
+            "year": "2013",
+            "nation": "USA",
+            "director": "Shane Black",
+            "info": "In Iron Man 3, Tony Stark still has to face an extremely dangerous enemy that is the Mandarin, he constantly carries out bombings with Extremis technology and kills Happy Hogan - Tony Stark's best friend. After escaping danger from being hunted, Tony investigates and learns that the person behind everything is Aldrich Killian, and Mandarin is just an actor.",
+            "trailer": "https: //www.youtube.com/embed/f_h95mEd4TI",
+            "hot": true
+        },
+        {
+            "id": 8,
+            "image": "https://upload.wikimedia.org/wikipedia/vi/7/7e/Thor_-_The_Dark_World_poster.jpg",
+            "title": "Thor 2: The Dark World",
+            "type": "Fantasy Movie",
+            "duration": "113 minutes",
+            "year": "2013",
+            "nation": "USA",
+            "director": "Alan Taylor",
+            "info": "In this part, Thor faces a hidden danger that is the Dark Elves led by Malekith. Malekith wants to find the Aether (Reality Stone) to destroy the universe. Thor and Loki work together to rescue his lover and stop Malekith.",
+            "trailer": "https: //www.youtube.com/embed/npvJ9FTgZbM",
+            "hot": false
+        },
+        {
+            "id": 9,
+            "image": "https://znews-photo.zingcdn.me/w660/Uploaded/fsmhv/2014_02_05/Capt2_Payoff_1Sht_v8_Lg.jpg",
+            "title": "Captain America: The Winter Soldier",
+            "type": "Fantasy Movie",
+            "duration": "136 minutes",
+            "year": "2014",
+            "nation": "USA",
+            "director": "Anthony and Joe Russo",
+            "info": "Steve Rogers struggles to keep his role in the modern world, teaming up with fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a threat posed by an assassin known as the Warrior. Winter.",
+            "trailer": "https: //www.youtube.com/embed/7SlILk2WMTI",
+            "hot": false
+        }
+    ]
+}

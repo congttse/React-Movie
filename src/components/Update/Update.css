@@ -1,0 +1,64 @@
+.updateButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.textUpdate{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #54B435;
+    font-size: 25px;
+    border-radius: 10px;
+    border: #333 1px solid;
+    margin-bottom: 15px;
+}
+.modal1{
+    position: fixed;
+    display: none;
+    text-align: center;
+}
+.modal1:target{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    width: 70%;
+    height: 50%;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.updateContentModal{
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(145, 204, 184);
+    border-radius: 20px;
+    width: 50%;
+    position: relative;
+}
+.updateCloseModal{
+    display: flex;
+    justify-content: right;
+    padding-right: 10px;
+    font-size: 25px;
+}
+.updateHeadingModal{
+    font-size: 25px;
+}
+.updateYesButton{
+    font-size: 20px;
+    width: 10%;
+}
+.updateNoButton{
+    width: 10%;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.updateYesLink{
+    color: red;
+}
+.updateNoLink{
+    color: blue;
+}

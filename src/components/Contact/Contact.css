@@ -1,0 +1,89 @@
+    
+.contact{
+    background: url('/public/images/bg.jpg');
+    background-size: cover;
+    background-position-y: -70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.contact-left{
+    width: 50%;
+    text-align: left;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FF884B;
+
+    padding-left: 30px;
+}
+.contact-left-icon{
+    padding-top: 5px;
+}
+.contact-address{
+    margin-top: -30px;
+    margin-bottom: 50px;
+}
+.contact-email{
+    margin-top: 30px;
+    margin-bottom: 50px;   
+}
+.contact-phone{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.input-field.col label {
+    left: .75rem;
+    color: #2146C7;
+}
+.select-wrapper input.select-dropdown{
+    color: #fff;
+}
+
+.form-heading{
+    font-size: 40px;
+    color: #f5f5f5;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form-input{
+    background: transparent;
+    border: 0;
+    outline: 0;
+    color: #f5f5f5;
+    flex-grow: 1;
+    border-bottom: 1px solid #81C6E8 !important;
+}
+.form-input::placeholder{
+    color: #f5f5f5;
+}
+.switch{
+    text-align: left;    
+    margin-bottom: 20px;
+}
+.switch label input[type=checkbox]:checked+.lever {
+    background-color: #2146C7;
+    transition: 0.3s ease-in-out;
+}
+.switch label {
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+.contact-error{
+    color: #E0144C;
+    font-size: 14px;
+}
+.contact-button-send{
+    background-color: #54B435;
+}
+.contact-button-view{
+    margin-left: 70px;
+    color: #fff;
+    background: #54B435;
+}
+.contact-link{
+    padding: 5px;
+}

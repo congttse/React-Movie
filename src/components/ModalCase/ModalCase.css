@@ -1,0 +1,27 @@
+.modal-show {
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 100vw;
+    height: 100vmax;
+    z-index: 99;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+  }
+  .modal{
+    display: block !important;
+    top: 35% !important;
+  }
+  .mc-text{
+    text-align: right;
+  }
+  .mc-close{
+    color: red;
+    font-size: 30px;
+    padding-right: 20px;
+  }
+  .mc-trailer{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  

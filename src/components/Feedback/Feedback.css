@@ -1,0 +1,108 @@
+.feedback-section{
+    background: #F8EDE3 !important;
+}
+.feedback-icon{
+    padding-top: 7px;
+    padding-left: 10px;
+}
+.collapsible-header {
+    background: #ADDDD0  ;
+}
+
+.collapsible-body {
+    text-align: left;
+}
+.textarea-placeholder::placeholder{
+    color: #000;
+}
+.feedback-message{
+    font-size: 20px;
+}
+.feedback-error{
+    text-align: left;
+    color: #E0144C;
+    font-size: 14px;
+}
+.feedback-button{
+    margin-right: 10px;
+}
+.feedback-update{
+    color: #fff;
+}
+.feedback-delete{
+    color: #fff;
+}
+.modal1{
+    position: fixed;
+    display: none;
+    text-align: center;
+}
+.modal1:target{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    width: 70%;
+    height: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.modal-content1{
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(145, 204, 184);
+    border-radius: 20px;
+    width: 50%;
+    position: relative;
+}
+.feedback-close{
+    display: flex;
+    justify-content: right;
+    padding-right: 10px;
+    font-size: 25px;
+}
+.feedback-text{
+    font-size: 20px;
+}
+.feedback-modal-button1{
+    font-size: 20px;
+    width: 10%;
+}
+.feedback-modal-button2{
+    width: 10%;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.feedback-yes{
+    color: red;
+}
+.feedback-no{
+    color: blue;
+}
+
+.modal2{
+    position: fixed;
+    display: none;
+    text-align: center;
+}
+.modal2:target{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    width: 70%;
+    height: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.modal-content2{
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(145, 204, 184);
+    border-radius: 20px;
+    width: 50%;
+    position: relative;
+    transition: all 0.3s ease-in-out;
+}

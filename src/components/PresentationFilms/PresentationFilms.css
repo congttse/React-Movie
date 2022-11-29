@@ -1,0 +1,137 @@
+.container-PF{
+    background-color: rgb(17, 17, 17);
+    color: #fff;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading-PF{
+    text-align: left;
+    font-size: 40px;
+    user-select: none;
+    padding: 40px;
+    margin: 0;
+}
+.filmOverview{
+    overflow-y: hidden;
+    overflow-x: auto;
+    overflow: hidden;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    user-select: none;
+    transition: all 0.3s linear;
+}
+.filmItem{
+    transform: scale(1);
+    max-width: 80%;
+    max-height: 80%;
+    width: 100%;
+    height: 100%;
+    transition: all 0.3 linear;
+    user-select: none;
+    overflow: hidden;
+    transform: center left;
+    position: relative;
+    margin-bottom: 30px;
+}
+.filmItem:hover{
+    transform: scale(1.1);
+    z-index: 10;
+    cursor: pointer;
+}
+.image-PF{
+    width: 350px;
+    height: 300px;
+    object-fit: fill;
+    border-radius: 6px;
+    padding-top: 20px;
+}
+.filmName{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 4px;
+    font-size: 14px;
+    background-color: rgba(0, 0, 0, 0.65);
+}
+.btnUpdate{
+    position: absolute;
+    left: 5px;
+    top: 30px;
+    background: #379237;
+    color: #fff;
+    font-size: 18px;
+    border: #fff solid 1px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.btnDelete{
+    position: absolute;
+    right: 5px;
+    top: 30px;
+    background: #E0144C;
+    color: #fff;
+    font-size: 18px;
+    border: #fff solid 1px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.modal2{
+    position: fixed;
+    display: none;
+    text-align: center;
+}
+.modal2:target{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    width: 70%;
+    height: 50%;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 99;
+}
+.deleteContentModal{
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(145, 204, 184);
+    border-radius: 20px;
+    width: 50%;
+    position: relative;
+}
+.deleteCloseModal{
+    display: flex;
+    justify-content: right;
+    padding-right: 10px;
+    font-size: 25px;
+}
+.deleteHeadingModal{
+    font-size: 25px;
+}
+.deleteYesButton{
+    font-size: 20px;
+    width: 10%;
+}
+.deleteNoButton{
+    width: 10%;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.deleteYesLink{
+    color: red;
+}
+.deleteNoLink{
+    color: blue;
+}
